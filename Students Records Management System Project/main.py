@@ -1,5 +1,5 @@
-#Fatima Shrateh 1181550
-#Jihan Alshafei 1181641
+#Fatima Shrateh 
+#Jihan Alshafei 
 #----------------------------
 # The libraries are used
 import tkinter
