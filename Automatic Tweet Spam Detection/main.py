@@ -1,4 +1,4 @@
-#Fatima shrateh-1181550 Jihan Alshafie- 1181641 & Hedaya Mustafa-1182126
+#Fatima shrateh- Jihan Alshafie- Hedaya Mustafa
 # Automatic tweet spam detection Project
 #-----------------------LIBRARIES----------------------------
 import os
